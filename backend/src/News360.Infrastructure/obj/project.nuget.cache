@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "qMcGHn75B7g=",
+  "dgSpecHash": "oxroAiVPxf0=",
   "success": true,
   "projectFilePath": "/home/varoth/Proyectos/News360/backend/src/News360.Infrastructure/News360.Infrastructure.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/home/varoth/.nuget/packages/microsoft.extensions.configuration.abstractions/10.0.2/microsoft.extensions.configuration.abstractions.10.0.2.nupkg.sha512",
+    "/home/varoth/.nuget/packages/microsoft.extensions.primitives/10.0.2/microsoft.extensions.primitives.10.0.2.nupkg.sha512"
+  ],
   "logs": []
 }
