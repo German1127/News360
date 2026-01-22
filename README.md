@@ -1,5 +1,7 @@
 # News360
 
+> 🚧 **Proyecto en Desarrollo (WIP)**: Esta aplicación se encuentra actualmente en construcción. El backend está funcional, pero el frontend y otras características están en proceso de implementación.
+
 Aplicación de agregación de noticias desarrollada con una arquitectura moderna separada en Backend y Frontend.
 
 ## 📂 Estructura del Proyecto
